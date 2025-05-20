@@ -1,2 +1,2 @@
 # Gia Nguyen Dzai
-{name} để tag
+Tool auto chat discord
